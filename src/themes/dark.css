@@ -1,0 +1,13 @@
+html{
+    background: #111;
+    color: #fff;
+}
+
+header{
+    border-bottom: 1px solid #555
+}
+
+.post{
+    border: 1px solid #555;
+    box-shadow: 1px 3px 5px -2px #55555555;
+}
